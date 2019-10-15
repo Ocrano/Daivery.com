@@ -12,7 +12,7 @@ Créateur du Discord : [@MarcKober](https://twitter.com/Mantis06670)<br/></div>
 
 ## Les liens utiles :
 
-Les notes de mise à jours sont disponible sur cette adresse :
+Les notes de mises à jour sont disponibles sur cette adresse :
 * https://github.com/Ocrano/Ocrano.fr/releases
 
 Pour des questions veuillez me contacter sur Twitter ou Discord :
