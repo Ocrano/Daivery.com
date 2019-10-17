@@ -20,4 +20,4 @@ Pour des questions veuillez me contacter sur Twitter ou Discord :
 * [Discord](https://discord.gg/753t4EF)
 
 ## Dernière mise à jour en date : 
-* [v0.5.1](https://github.com/Ocrano/Ocrano.fr/releases/tag/v0.5.1) (14/10/2019)
+* [v0.5.2](https://github.com/Ocrano/Ocrano.fr/releases/tag/v0.5.2) (18/10/2019)
