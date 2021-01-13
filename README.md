@@ -1,4 +1,6 @@
-
+<p align="center">
+    LOGO COMMING SOON
+</p>
 <div align="center" ><h1 size="50px"  >DAIVERY  
 
 ## Avancement de la construction du site :</b></p>
