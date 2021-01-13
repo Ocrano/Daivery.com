@@ -1,5 +1,5 @@
 
-<div align="center" ><img src="http://ocrano.free.fr/images/Accueil/profilpic.gif" height="100" width="100" >
+<div align="center" ><h1 DAIVERY height="100" width="100" ><\h1>
 
 ## Avancement de la construction du site :</b></p>
 
