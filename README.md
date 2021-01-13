@@ -1,5 +1,5 @@
 
-<div align="center" ><h1 DAIVERY height="100" width="100" ><\h1>
+<div align="center" ><h1 height="100" width="100" >DAIVERY  <\h1>
 
 ## Avancement de la construction du site :</b></p>
 
