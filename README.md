@@ -1,5 +1,5 @@
 <p align="center">
-    LOGO COMMING SOON
+    *LOGO COMING VERY SOON*
 </p>
 <div align="center" ><h1 size="50px"  >DAIVERY  
 
