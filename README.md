@@ -1,5 +1,5 @@
 <p align="center">
-    *LOGO COMING VERY SOON*
+   <img src="https://github.com/Ocrano/Ocrano.fr/blob/master/DAIVERY.png" width="400">
 </p>
 <div align="center" ><h1 size="50px"  >DAIVERY  
 
