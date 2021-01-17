@@ -21,4 +21,4 @@ Pour des questions veuillez me contacter sur Twitter :
 
 
 ## Dernière mise à jour en date : 
-* [v0.5.2](https://github.com/Ocrano/Ocrano.fr/releases/tag/v0.5.2) (18/10/2019)
+* [v0.5.1](https://github.com/Ocrano/Daivery.com/releases/tag/v0.5.1) (17/01/2021)
