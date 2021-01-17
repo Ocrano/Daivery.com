@@ -14,7 +14,7 @@ Site crée par : [@Ocrano](https://twitter.com/srfoj)<br/>
 ## Les liens utiles :
 
 Les notes de mises à jour sont disponibles sur cette adresse :
-* https://github.com/Ocrano/Ocrano.fr/releases
+* https://github.com/Ocrano/Daivery.com/releases
 
 Pour des questions veuillez me contacter sur Twitter :
 * [Twitter](https://twitter.com/srfoj)
