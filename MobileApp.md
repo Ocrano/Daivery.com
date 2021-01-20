@@ -1,5 +1,5 @@
 # Developpement de l'application mobile Daivery
-Utilisation du framework [react-native de Facebook](https://reactnative.dev/)
+Utilisation du framework [react-native de Facebook](https://reactnative.dev/)<br>
 20/01/2021 - mise en place d'un environnement de developpement d'appplication mobile. (principalement IOS pour l'instant)
 - Installation de CocoaPods sur Windows ( Prérequis : Ruby, curl, git, CocoaPods) 
 - Installation du Node.js / npm
