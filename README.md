@@ -5,12 +5,12 @@
 
 ## Avancement de la construction du site :</b></p>
 
-☞ [Daivery](https://daivery.com) ☜<br/>
+- [Daivery](https://daivery.com) <br/>
 
 Site crée par : [@Ocrano](https://twitter.com/srfoj)<br/>
 
 ## Avancement de la construction de l'application mobile :
-☞ [Appli](https://github.com/Ocrano/Daivery.com/blob/master/MobileApp.md)
+- [Appli](https://github.com/Ocrano/Daivery.com/blob/master/MobileApp.md)
 
 
 ## Les liens utiles :
