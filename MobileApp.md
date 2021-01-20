@@ -1,6 +1,6 @@
 # Developpement de l'application mobile Daivery
 Utilisation du framework [react-native de Facebook](https://reactnative.dev/)<br>
-20/01/2021 - mise en place d'un environnement de developpement d'appplication mobile. (principalement IOS pour l'instant)
+20/01/2021 - mise en place d'un environnement de developpement d'application mobile. (principalement IOS pour l'instant)
 - Installation de CocoaPods sur Windows ( Prérequis : Ruby, curl, git, CocoaPods) 
 - Installation du Node.js / npm
 - npm install react-native cli
@@ -10,7 +10,7 @@ Utilisation du framework [react-native de Facebook](https://reactnative.dev/)<br
 - cmd : expo start
 - App.js ( Editeur actuel : Atom)
 
-## Pour webview simple avec un site en ligne : App.js
+## Pour une webview simple avec un site en ligne : App.js
 ```jsx
 
 import { StatusBar } from 'expo-status-bar';
@@ -47,11 +47,11 @@ const styles = StyleSheet.create({
 
 ## Documentation
 
-> Note: En cours de rédaction ...
+> Notes: En cours de rédaction ...
 
 
 
-Si vous les trouvez utiles, n'oubliez pas de mettre une ⭐ et de la partager avec vos amis ❤️
+Si vous trouvez utiles ce readme, n'oubliez pas de mettre une ⭐ et de le partager avec vos amis ❤️
 
 
 Suivez moi sur [twitter](https://twitter.com/srfoj/)
