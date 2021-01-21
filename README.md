@@ -13,7 +13,7 @@
 
 
 ## Dernière mise à jour en date du site : 
-* [v0.5.1](https://github.com/Ocrano/Daivery.com/releases/tag/v0.5.1) (17/01/2021)
+* [v0.5.2](https://github.com/Ocrano/Daivery.com/releases/tag/v0.5.2) (21/01/2021)
 
 ## Les liens utiles :
 
